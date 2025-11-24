@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    background: #f3f3f3;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.post {
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
